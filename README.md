@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<p align="center"><img src="https://github.com/Luis-Aguila/MarketMap/blob/master/src/assets/img/logo.png?raw=true" alt="Logo Proyecto" width="150px" height="150px"></p>
+	<p align="center"><img src="" alt="Logo/Imagen Proyecto" width="150px" height="150px"></p>
 	<h1 align="center">Mapas de Angular-Maps</h1>
 	<h3>Introducción</h3>
   <p>Este sistema esta creado con la finalidad de trabajar con los mapas de google maps, implementandolo a un proyecto desarrollado en angular, para este motivo se utilizo Angular-maps desde https://angular-maps.com/ y los estilos se trabajaron implementando Material Design desde la página https://material.io/design/.</p>
