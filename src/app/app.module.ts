@@ -29,7 +29,7 @@ import { MapaEditarComponent } from './components/mapa/mapa-editar.component';
     MaterialModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBz6UoCM5zb2sI6k1LapytmQBcEwB2rx5s'
+      apiKey: 'INGRESE_KEY'
     })
   ],
   providers: [],
