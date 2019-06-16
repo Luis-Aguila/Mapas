@@ -4,8 +4,26 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<p align="center"><img src="" alt="Logo/Imagen Proyecto" width="150px" height="150px"></p>
+	<p align="center"><img src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-tecnology/Angular-maps.png" alt="Logo/Imagen Proyecto" width="150px" height="150px"></p>
 	<h1 align="center">Mapas de Angular-Maps</h1>
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" valign="middle">
+          <img width="222px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-tecnology/angular.png" alt="Imagen 1">
+        </td>
+        <td align="center" valign="middle">
+          <img width="222px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-tecnology/html5.png" alt="Imagen 2">
+        </td>
+        <td align="center" valign="middle">
+          <img width="222px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-tecnology/Angular-maps.png" alt="Imagen 3">
+        </td>
+        <td align="center" valign="middle">
+          <img width="222px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-tecnology/material-design.png" alt="Imagen 4">
+        </td>
+      </tr><tr></tr>
+    </tbody>
+  </table>
 	<h3>Introducción</h3>
   <p>Este sistema esta creado con la finalidad de trabajar con los mapas de google maps, implementandolo a un proyecto desarrollado en angular, para este motivo se utilizo Angular-maps desde https://angular-maps.com/ y los estilos se trabajaron implementando Material Design desde la página https://material.io/design/.</p>
   <p>El sistema consiste en la visualización de un mapa y la gestión de marcadores dentro del mismo, al momento de seleccionar una ubicación del mapa, se generara un nuevo marcador, el cual se podra editar y almacenar en el LocalStorage.</p>
@@ -32,7 +50,21 @@
     <li>mapa-editar (Se editan los marcadores)</li>
   </ul>
 	<h3>Vistas del sistema</h3>
-	<p>Imagenes</p>
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" valign="middle">
+          <img width="300px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-proyect/Mapas/index1.PNG" alt="Imagen 1">
+        </td>
+        <td align="center" valign="middle">
+          <img width="300px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-proyect/Mapas/index2.PNG" alt="Imagen 2">
+        </td>
+        <td align="center" valign="middle">
+          <img width="300px" src="https://github.com/Luis-Aguila/Contenido/blob/master/assets/img-proyect/Mapas/index3.PNG" alt="Imagen 3">
+        </td>
+      </tr><tr></tr>
+    </tbody>
+  </table>
 
 	
 
