@@ -7,7 +7,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { MaterialModule } from './material.module';
 import { MapaComponent } from './components/mapa/mapa.component';
-
+//Componentes de Angular-maps
 import { AgmCoreModule } from '@agm/core';
 import { MapaEditarComponent } from './components/mapa/mapa-editar.component';
 
@@ -29,6 +29,7 @@ import { MapaEditarComponent } from './components/mapa/mapa-editar.component';
     MaterialModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
+//Api key de googlemaps
       apiKey: 'AIzaSyBz6UoCM5zb2sI6k1LapytmQBcEwB2rx5s'
     })
   ],

@@ -11,7 +11,7 @@ import { FormBuilder, FormGroup } from '@angular/forms';
 export class MapaEditarComponent implements OnInit {
 
   forma:FormGroup;
-
+//carga un formulario e inyecta la data de tipo any
   constructor(
     public fb: FormBuilder,
     public dialogRef: MatDialogRef<MapaEditarComponent>,
@@ -26,11 +26,11 @@ export class MapaEditarComponent implements OnInit {
 
   ngOnInit() {
   }
-
+//Guarda cambios realizados de la información de los marcadores
   guardarCambios(){
     this.dialogRef.close(this.forma.value);
   }
-
+//Desactiva la visualización del cuadro de dialogo
   onNoClick(): void {
     this.dialogRef.close();
   }

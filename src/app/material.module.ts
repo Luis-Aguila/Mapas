@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 
 
 
-//Angular material
+//Se realizan las importaciones de los componentes de Material Design a utilizar.
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
