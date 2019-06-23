@@ -31,7 +31,7 @@ import { MapaEditarComponent } from './components/mapa/mapa-editar.component';
     AgmCoreModule.forRoot({
 <<<<<<< HEAD
 //Api key de googlemaps
-      apiKey: 'AIzaSyBz6UoCM5zb2sI6k1LapytmQBcEwB2rx5s'
+      apiKey: 'INGRESE_KEY'
 =======
       apiKey: 'INGRESE_KEY'
 >>>>>>> 55a0ca3f6f91febe8a46e1bbb748eedab936e004
